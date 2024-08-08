@@ -202,10 +202,14 @@ const projects = [
       },
       {
         name: "Postgres",
-        color: "pink-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "Redis",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Docker",
         color: "green-text-gradient",
       },
     ],
