@@ -220,7 +220,7 @@ const projects = [
   {
     name: "Fitness App",
     description:
-    "An application for your fitness where you can find specific exercises for specific muscle groups with videos to help you learn the form of the exercises. Search for specific exercises like Cardio, Chest, Back etc.",
+    "An application for your fitness where you can find specific exercises for specific muscle groups with videos to help you learn.",
     tags: [
       {
         name: "React",
