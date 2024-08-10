@@ -32,6 +32,7 @@ import graphql from "../assets/tech/graphql.png"
 
 import chatapp from "../assets/chat-app-ss.png"
 import foodapp from "../assets/food-app.png"
+import fitness from "../assets/fitness.png"
 
 
 
@@ -217,25 +218,25 @@ const projects = [
     source_code_link: "https://github.com/rabindra-sss/CHAT-APP",
   },
   {
-    name: "Trip Guide",
+    name: "Fitness App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    "An application for your fitness where you can find specific exercises for specific muscle groups with videos to help you learn the form of the exercises. Search for specific exercises like Cardio, Chest, Back etc.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Rapid API",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Material UI",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: fitness,
+    source_code_link: "https://github.com/rabindra-sss/Fitness-Club",
   },
 ];
 
