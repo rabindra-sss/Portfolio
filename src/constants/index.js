@@ -189,10 +189,10 @@ const projects = [
     description:
       "A real-time chat application where users can create chatrooms and add other users. Users can manage their profile and track live users.",
     tags: [ 
-      {
-        name: "React",
-        color: "blue-text-gradient",
-      },
+      // {
+      //   name: "React",
+      //   color: "blue-text-gradient",
+      // },
       {
         name: "TypeScript",
         color: "pink-text-gradient",
@@ -209,10 +209,10 @@ const projects = [
         name: "Redis",
         color: "pink-text-gradient",
       },
-      {
-        name: "Docker",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "Docker",
+      //   color: "green-text-gradient",
+      // },
     ],
     image: chatapp,
     source_code_link: "https://github.com/rabindra-sss/CHAT-APP",
