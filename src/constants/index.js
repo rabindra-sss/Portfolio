@@ -30,7 +30,7 @@ import medantrik from "../assets/company/medantrik.png"
 
 import graphql from "../assets/tech/graphql.png"
 
-import chatapp from "../assets/chat-app-ss.png"
+import chatapp from "../assets/chatapp.png"
 import foodapp from "../assets/food-app.png"
 import fitness from "../assets/fitness.png"
 
