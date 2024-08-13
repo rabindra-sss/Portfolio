@@ -160,7 +160,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Food App",
+    name: "Food Delivery App",
     description:
       "Web-based platform that allows users to search, order foods of different categories with add-to-cart and order history options.",
     tags: [
